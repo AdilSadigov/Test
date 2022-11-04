@@ -1,1 +1,2 @@
-My new line 2
+My new line 
+I don't like this feature
